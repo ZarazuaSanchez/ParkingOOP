@@ -1,0 +1,9 @@
+------------------------------------------
+"Parking's a Bitch!" Parking Company
+Enter Time:
+10/19/2019 07:00
+Exit Time:
+10/19/2019 17:00
+Car 1
+Keep ticket in a safe place!
+------------------------------------------
